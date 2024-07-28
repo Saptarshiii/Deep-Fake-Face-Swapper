@@ -6,7 +6,9 @@ Find the Demo of this repo here: https://drive.google.com/file/d/1QUvOh3V3RXT_oi
 1. CUDA
 2. CUDNN
 3. NIVIDIA Graphics Driver
-4. Download the faceswapper model weights from this link: https://drive.google.com/file/d/1_RRagwPGsD83UzmmHOtx_d4lpyrYshn7/view?usp=sharing
+4. Download the faceswapper model weights from this link: link is removed for security purposes
+
+contact owner at: saptarshibanik123@gmail.com
 
 Note: All of the above compatible with the user's coding environment and python libraries
 
