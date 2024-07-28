@@ -21,7 +21,7 @@ cap = cv2.VideoCapture("video.mp4")
 ret = True
 
 #Initializing VideoWriter function
-output = cv2.VideoWriter( "output.mp4", cv2.VideoWriter_fourcc(*'MP4V'), 30, (1920, 1080))
+output = cv2.VideoWriter( "output.mp4", cv2.VideoWriter_fourcc(*'MP4V'), 30, (1920, 1080))#set the dimensions acc. to the input video
 
 while ret:
     # Read a frame from the camera
