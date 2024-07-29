@@ -6,11 +6,11 @@ Find the Demo of this repo here: https://drive.google.com/file/d/1QUvOh3V3RXT_oi
 1. CUDA
 2. CUDNN
 3. NIVIDIA Graphics Driver
-4. Download the faceswapper model weights from this link: link is removed for security purposes
+4. Download the faceswapper model weights from this link: _link is removed for security purposes_
 
 contact owner at: saptarshibanik123@gmail.com
 
-Note: All of the above compatible with the user's coding environment and python libraries
+Note: All of the above must be compatible with the user's coding environment and python libraries
 
 ## How to Use
 
@@ -36,7 +36,7 @@ set source image as source.jpg
 
 run the **vid.py** file
 ```
-python .\main.py
+python .\vid.py
 ```
 
 
